@@ -1,8 +1,17 @@
 html {
-    background-image: linear-gradient(white, violet, indigo, blue, green, yellow, orange, red, black)
+    height: 100%;
 }
 
 body {
+    background-image: linear-gradient(white, violet, indigo, blue, green, yellow, orange, red, black);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font: Luminari, fantasy;
     font-size: x-large;
+}
+
+a {
+    color: orange;
 }
