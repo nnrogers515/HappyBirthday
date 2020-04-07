@@ -1,0 +1,8 @@
+html {
+    background-image: linear-gradient(white, violet, indigo, blue, green, yellow, orange, red, black)
+}
+
+body {
+    font: Luminari, fantasy;
+    font-size: x-large;
+}
