@@ -3,10 +3,14 @@ html {
     border: 2em solid transparent;
     border-image: url(../images/rose.png) 60 round;
     background-color: rgb(252, 225, 191);
+    overflow-y: scroll;
+    padding: 1em;
 }
 
 body {
     height: 100%;
+    overflow-y: scroll;
+
 }
 
 .col {
