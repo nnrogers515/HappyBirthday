@@ -13,5 +13,9 @@ body {
 }
 
 a {
-    color: maroon;
+    color: red;
+}
+
+a:hover {
+    color: blue;   
 }
